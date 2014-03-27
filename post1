@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		
+	</head>
+		
+	<body> 
+		No post de hoje vamos comentar sobre o que é GIT e conhecer sobre o GitHub:
+
+ O que é GIT ?
+O Git é um sistema de controle de versão distribuído, se quiserem fazer uma analogia podem pensar no SVN, TFS ou SourceSafe, apesar de grandes diferenças. Foi inicialmente projetado e construído pelo Linus Torvalds, e utilizado no desenvolvimento do Kernel do Linux.
+O que é Git Hub ?
+O GitHub, lançado em Fevereiro de 2008, é um site onde podemos hospedar nossos projetos. Ele utiliza o Git para controle de versão, e, para os desenvolvedores de plantão, o GitHub foi feito com Ruby on Rails.
+
+O que é um repositório ?
+Local onde fica todos os arquivos do projeto, inclusive os históricos e as versões.
+O que é um Commit ?
+Coleção de alterações realizadas, é como se fosse um checkpoint do seu projeto, sempre que for necessário você é capaz de retroceder um commit.
+
+Gerando Sua Chave Pública SSH
+Vários servidores Git autenticam usando chaves públicas SSH. Para fornecer uma chave pública, cada usuário no seu sistema deve gerar uma se eles ainda não a possuem. Este processo é similar entre os vários sistemas operacionais. Primeiro, você deve checar para ter certeza que você ainda não possui uma chave. Por padrão, as chaves SSH de um usuário são armazenadas no diretório ~/.ssh. Você pode facilmente verificar se você tem uma chave indo para esse diretório e listando o seu conteúdo.
+
+	
+	</body>
+
+</html>
