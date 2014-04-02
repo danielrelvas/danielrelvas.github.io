@@ -1,0 +1,11 @@
+body {
+	margin: 0;
+}
+div {
+	background-image: url(images/Banner.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 200px 0px 0px 0px;
+	background-color: blue;
+	text-align: center;
+	}
